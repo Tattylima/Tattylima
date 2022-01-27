@@ -2,7 +2,7 @@
 
 - 🌱 Newbie at programming 
 - 😄 Pronouns: She/Her
-- 📚 I’m currently learning about programming language
+- 📚 Information systems student
 - ⚡ Fun fact: just a self-taught ADHD, turning over this new universe of codes
 - 📭 adulciellelima@outlook.com
 -->
